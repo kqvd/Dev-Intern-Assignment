@@ -65,7 +65,7 @@ class Button extends Component {
 
     getBadgeClasses() {
         let classes = "badge m-2 badge-";
-        classes += this.state.count === 0 ? "warning" : "primary";
+        classes += this.state.count === 3 ? "warning" : "primary";
         return classes;
     }
 
