@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+import './button.css';
+
 import red from '../PNG/Rectangle 207.png';
 import blue from '../PNG/Rectangle 135.png';
 import orange from '../PNG/Rectangle 137.png';
